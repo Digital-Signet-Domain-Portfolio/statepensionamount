@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://statepensionamount.co.uk
+Sitemap: https://statepensionamount.co.uk/sitemap.xml
